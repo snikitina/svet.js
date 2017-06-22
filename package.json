@@ -1,0 +1,26 @@
+{
+  "name": "svet.js",
+  "version": "0.0.0",
+  "description": "Svetlana, don't go.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tur-nr/svet.js.git"
+  },
+  "keywords": [
+    "svetlana",
+    "pull",
+    "request",
+    "queen",
+    "legend"
+  ],
+  "author": "Svet's Friends",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/tur-nr/svet.js/issues"
+  },
+  "homepage": "https://github.com/tur-nr/svet.js#readme"
+}
