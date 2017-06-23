@@ -14,3 +14,5 @@ $ npm install svet.js
 
 ## Comments and Wishes
 
+See ya Svet! Best of luck with the new gig. I'm super sad I never got a PR review :disappointed:
+Tadhg
