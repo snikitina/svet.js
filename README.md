@@ -14,3 +14,4 @@ $ npm install svet.js
 
 ## Comments and Wishes
 
+All the best Svet, all the best for future endeavours :)
