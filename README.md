@@ -14,3 +14,5 @@ $ npm install svet.js
 
 ## Comments and Wishes
 
+Bye Svet! 🙁 It's been awesome having you as a part of our team. You'll obviously be missed here, and not just for your PR reviewing amazingness. Good luck with your new role, show 'em how its done!
+*- Will*
