@@ -12,5 +12,20 @@ $ yarn install svet.js
 $ npm install svet.js
 ```
 
+## Running
+
+```
+$ yarn start
+$ npm start
+```
+
+## Testing
+
+```
+$ yarn test
+$ npm test
+```
+
+
 ## Comments and Wishes
 

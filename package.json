@@ -4,7 +4,8 @@
   "description": "Svetlana, don't go.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js",
+    "test": "echo LOL tests are for nubs"
   },
   "repository": {
     "type": "git",
