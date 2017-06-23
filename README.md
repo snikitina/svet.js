@@ -35,3 +35,4 @@ $ npm test
 
 ## Comments and Wishes
 
+Your dedication to quality was a major part of the success of the new 9news website! You will be missed - Barney
