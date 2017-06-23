@@ -35,3 +35,4 @@ $ npm test
 
 ## Comments and Wishes
 
+Fare thee well Svet! The ultimate PR ninja. All the best at the new gig, you're going to crush it !important - Paul
