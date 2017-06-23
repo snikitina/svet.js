@@ -35,3 +35,8 @@ $ npm test
 
 ## Comments and Wishes
 
+Thanks for all your helps and hope you don't feel annoyed when I asked you so many css questions. I have learned so much from you.
+Hope we will come across again. Good luck and all the best for your next adventure.
+
+Mickey
+---
