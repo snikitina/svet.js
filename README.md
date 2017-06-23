@@ -14,3 +14,5 @@ $ npm install svet.js
 
 ## Comments and Wishes
 
+Hey Svet!
+It's been a pleasure working with you! Will definetely miss you around the office and not just for your pull request finesse but for overall just being friendly and super awesome! All the best with your next move, I'm sure you will smash it. Also, keep on exploring and seeking those adventures! "Jobs fill your pocket but adventures fill your soul" (I honestly just googled adventure quotes haha..) Good luck! and hope to catch up some time. - Pete
