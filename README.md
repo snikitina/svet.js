@@ -14,3 +14,4 @@ $ npm install svet.js
 
 ## Comments and Wishes
 
+Your dedication to quality was a major part of the success of the new 9news website. 
