@@ -34,4 +34,4 @@ $ npm test
 
 
 ## Comments and Wishes
-
+I've loved getting to you know Svet!! I'm sure I'll still get to see you in the future :) goodluck with your new job! I'm going to miss you!! <3 aimee
