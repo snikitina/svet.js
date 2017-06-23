@@ -1,6 +1,6 @@
 {
   "name": "svet.js",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Svetlana, don't go.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "echo && echo LOL tests are for nubs && echo"
   },
   "bin": {
-    "svet": "index.js"
+    "svet": "bin.js"
   },
   "repository": {
     "type": "git",
