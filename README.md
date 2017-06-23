@@ -35,3 +35,4 @@ $ npm test
 
 ## Comments and Wishes
 
+Svet, all the cheesecakes and the best. Don't be a stranger - CT 
