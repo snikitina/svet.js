@@ -35,3 +35,6 @@ $ npm test
 
 ## Comments and Wishes
 
+Bye svet! GL getting into the education space, the _math space_, if you will. Never really worked together much but the kyaking was fun !
+
+~ dougall
