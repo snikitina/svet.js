@@ -7,6 +7,9 @@
     "start": "node index.js",
     "test": "echo && echo LOL tests are for nubs && echo"
   },
+  "bin": {
+    "svet": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tur-nr/svet.js.git"
