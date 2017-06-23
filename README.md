@@ -35,3 +35,13 @@ $ npm test
 
 ## Comments and Wishes
 
+Sveta stay buff and strong
+O--,---,--O
+   \ O /
+    - -
+     -
+    / \
+   =   =
+And have fun at new place
+
+
