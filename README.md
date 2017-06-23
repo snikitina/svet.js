@@ -35,3 +35,4 @@ $ npm test
 
 ## Comments and Wishes
 
+Good luck at the new place Svet! Sad to see you go :(
