@@ -35,3 +35,12 @@ $ npm test
 
 ## Comments and Wishes
 
+> patrick says:
+
+All the best Sveta,
+
+You flexbox skills are the best.
+
+Will miss you round here
+
+---
