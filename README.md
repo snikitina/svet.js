@@ -35,3 +35,5 @@ $ npm test
 
 ## Comments and Wishes
 
+Having the privilege of working with you has been the highlight of my time here. We will miss you. Best of luck in your new position!
+
