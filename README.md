@@ -19,6 +19,12 @@ $ yarn start
 $ npm start
 ```
 
+Or install globally and run;
+
+```
+$ svet
+```
+
 ## Testing
 
 ```
