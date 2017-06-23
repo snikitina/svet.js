@@ -14,3 +14,4 @@ $ npm install svet.js
 
 ## Comments and Wishes
 
+Svet it's been a pleasure working with you and sharing a love of peanut butter. Your PRs are legendary. All the best for the educational gig sounds like a blast! 😀
