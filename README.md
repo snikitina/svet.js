@@ -35,3 +35,10 @@ $ npm test
 
 ## Comments and Wishes
 
+---------------- HEY THERE ----------------
+It's been a real pleasure working with you
+Wish all the awesomeness for your next job
+Will miss your extraordinary 👀 for detail
+
+Cyril
+---------------- GOOD BYE -----------------
